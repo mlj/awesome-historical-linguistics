@@ -6,6 +6,12 @@
 * [A Dictionary of the Old-Irish Glosses in the Milan Codex Ambrosianus C 301 inf.](http://www.univie.ac.at/indogermanistik/milan_glosses.htm) (FileMaker database)
 * [The Online Database of the Old Irish Priscian Glosses](http://www.univie.ac.at/indogermanistik/priscian/) (FileMaker database)
 * [Corpus of Electronic Texts](https://www.ucc.ie/celt/): 18 million words of Irish literary and historical sources in Irish, Latin, Anglo-Norman French and English (TEI corpus)
+* [Syntactic Reference Corpus of Medieval French](http://srcmf.org/index.html) (SRCMF) (Dependency treebank)
+* [The PROIEL Treebank](http://proiel.github.io) (PROIEL) (Dependency treebank)
+* [The ISWOC Treebank](http://iswoc.github.io/) (ISWOC) (Dependency treebank)
+* [The Tromsø Old Russian and OCS Treebank](http://torottreebank.github.io/) (TOROT) (Dependency treebank)
+* [The Index Thomisticus Treebank](http://itreebank.marginalia.it/) (Dependency treebank)
+* [The Ancient Greek and Latin Dependency Treebank](https://perseusdl.github.io/treebank_data/) (AGLDT) (Dependency treebank)
 
 # Related lists
 
