@@ -8,6 +8,7 @@
   * [The Penn-Helsinki Parsed Corpus of Modern British English (PPCMBE)](http://www.helsinki.fi/varieng/CoRD/corpora/PPCMBE/) (Kroch and Diertani 2010): c. 0.9 million words of Modern British English (1700–1914)
 * [Icelandic Parsed Historical Corpus](http://www.linguist.is/icelandic_treebank/) (IcePaHC) (Wallenberg et al. 2011): c. 1.0 million words of Icelandic from the 12th to the 21st century
 * [The Parsed Old and Middle Irish Corpus (POMIC)](https://www.dias.ie/celt/celt-publications-2/celt-the-parsed-old-and-middle-irish-corpus-pomic/) (Lash 2014): 14 texts from c. 700 to c. 1100
+* [Tycho Brahe Parsed Corpus of Historical Portuguese](http://www.tycho.iel.unicamp.br/~tycho/corpus/en/): c. 1.2 million words from 27 texts in Portuguese by authors born between 1380 and 1881.
 * [The Heliand Parsed Database](http://www.chlg.ac.uk/helipad/) (HeliPaD), part of the in-progress [Corpus of Historical Low German](http://www.chlg.ac.uk/)
 
 ## PDT-style treebanks and other dependency treebanks
