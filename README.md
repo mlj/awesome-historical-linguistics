@@ -11,13 +11,15 @@
 * [Tycho Brahe Parsed Corpus of Historical Portuguese](http://www.tycho.iel.unicamp.br/~tycho/corpus/en/): c. 1.2 million words from 27 texts in Portuguese by authors born between 1380 and 1881.
 * [The Heliand Parsed Database](http://www.chlg.ac.uk/helipad/) (HeliPaD), part of the in-progress [Corpus of Historical Low German](http://www.chlg.ac.uk/)
 
-## PDT-style treebanks and other dependency treebanks
+## Dependency treebanks
 
-* [The Index Thomisticus Treebank](http://itreebank.marginalia.it/) (Dependency treebank)
-* [The Ancient Greek and Latin Dependency Treebank](https://perseusdl.github.io/treebank_data/) (AGLDT) (Dependency treebank)
-* [The PROIEL Treebank](http://proiel.github.io) (PROIEL) (Dependency treebank)
-* [The ISWOC Treebank](http://iswoc.github.io/) (ISWOC) (Dependency treebank)
-* [The Tromsø Old Russian and OCS Treebank](http://torottreebank.github.io/) (TOROT) (Dependency treebank)
+* Annotation based on the [Prague Dependency Treebank](https://ufal.mff.cuni.cz/pdt) (Böhmová et al. 2003)
+  * [The Index Thomisticus Treebank](http://itreebank.marginalia.it/) (Dependency treebank)
+  * [The Ancient Greek and Latin Dependency Treebank](https://perseusdl.github.io/treebank_data/) (AGLDT) (Dependency treebank)
+* Annotation based on the PROIEL scheme
+  * [The PROIEL Treebank](http://proiel.github.io) (PROIEL) (Dependency treebank)
+  * [The ISWOC Treebank](http://iswoc.github.io/) (ISWOC) (Dependency treebank)
+  * [The Tromsø Old Russian and OCS Treebank](http://torottreebank.github.io/) (TOROT) (Dependency treebank)
 * [Syntactic Reference Corpus of Medieval French](http://srcmf.org/index.html) (SRCMF): c. 250,000 words from 15 texts from Old French period from 842 to the end of the 13th century
 
 ## Others
