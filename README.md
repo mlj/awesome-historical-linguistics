@@ -9,18 +9,18 @@
 * [Icelandic Parsed Historical Corpus](http://www.linguist.is/icelandic_treebank/) (IcePaHC) (Wallenberg et al. 2011): c. 1.0 million words of Icelandic from the 12th to the 21st century
 * [The Parsed Old and Middle Irish Corpus (POMIC)](https://www.dias.ie/celt/celt-publications-2/celt-the-parsed-old-and-middle-irish-corpus-pomic/) (Lash 2014): 14 texts from c. 700 to c. 1100
 * [Tycho Brahe Parsed Corpus of Historical Portuguese](http://www.tycho.iel.unicamp.br/~tycho/corpus/en/): c. 1.2 million words from 27 texts in Portuguese by authors born between 1380 and 1881.
-* [The Heliand Parsed Database](http://www.chlg.ac.uk/helipad/) (HeliPaD), part of the in-progress [Corpus of Historical Low German](http://www.chlg.ac.uk/)
+* [The Heliand Parsed Database (HeliPaD)](http://www.chlg.ac.uk/helipad/), part of the in-progress [Corpus of Historical Low German](http://www.chlg.ac.uk/)
 
 ## Dependency treebanks
 
 * Annotation based on the [Prague Dependency Treebank](https://ufal.mff.cuni.cz/pdt) (Böhmová et al. 2003)
-  * [The Index Thomisticus Treebank](http://itreebank.marginalia.it/) (Dependency treebank)
-  * [The Ancient Greek and Latin Dependency Treebank](https://perseusdl.github.io/treebank_data/) (AGLDT)
+  * [The Index Thomisticus Treebank (IT)](http://itreebank.marginalia.it/)
+  * [The Ancient Greek and Latin Dependency Treebank (AGLDT)](https://perseusdl.github.io/treebank_data/))
 * Annotation based on the PROIEL scheme
-  * [The PROIEL Treebank](http://proiel.github.io) (PROIEL)
-  * [The ISWOC Treebank](http://iswoc.github.io/) (ISWOC)
-  * [The Tromsø Old Russian and OCS Treebank](http://torottreebank.github.io/) (TOROT)
-* [Syntactic Reference Corpus of Medieval French](http://srcmf.org/index.html) (SRCMF): c. 250,000 words from 15 texts from Old French period from 842 to the end of the 13th century
+  * [The PROIEL Treebank (PROIEL)](http://proiel.github.io)
+  * [The ISWOC Treebank (ISWOC)](http://iswoc.github.io/)
+  * [The Tromsø Old Russian and OCS Treebank (TOROT)](http://torottreebank.github.io/)
+* [Syntactic Reference Corpus of Medieval French (SRCMF)](http://srcmf.org/index.html): c. 250,000 words from 15 texts from Old French period from 842 to the end of the 13th century
 
 ## Others
 
